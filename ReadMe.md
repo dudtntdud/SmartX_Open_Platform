@@ -20,10 +20,9 @@ IoT, Cloud, BigData, Mboile이 연계 가능한 개방형 플랫폼
 ### Component Links
   
   * Service
-     -
-     -
-     -
-
+     - 1
+     - 2
+     - 3
   * Control Tower
      - O+P Center
      - S Center
@@ -36,15 +35,10 @@ IoT, Cloud, BigData, Mboile이 연계 가능한 개방형 플랫폼
 
 
 ### Links
-  - https://goo.gl/xyXfpd
+  - [상세가이드](https://goo.gl/xyXfpd)
+  - [Collaboration_2017](https://github.com/KOREN-Platform/Collaboration_2017)
+  - [Technical_Documents](https://github.com/KOREN-Platform/Technical_Documents)
 
-
-### Component links
-
-* [LoRa Gateway Bridge](https://docs.loraserver.io/lora-gateway-bridge)
-* [LoRa Gateway Config](https://docs.loraserver.io/lora-gateway-config)
-* [LoRa Server](https://docs.loraserver.io/loraserver/)
-* [LoRa App Server](https://docs.loraserver.io/lora-app-server/)
 
 ## Sponsors
 
