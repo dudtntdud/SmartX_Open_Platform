@@ -18,6 +18,7 @@ IoT, Cloud, BigData, Mboile이 연계 가능한 개방형 플랫폼
 ![Architecture](./images/Architecture.png)
 
 ## Component Links
+  
   * Service
      -
      -
@@ -28,17 +29,14 @@ IoT, Cloud, BigData, Mboile이 연계 가능한 개방형 플랫폼
      - S Center
      - V Center
 
-## Boxes
+### Boxes
   * [O-Box](Software-Defined Access 대응)
   * C-Box(클라우드 대응)
   * S-Box(Software-Defined WAN 대응)
 
-## Links
+
+### Links
   - https://goo.gl/xyXfpd
-
-
-
-
 
 
 ### Component links
@@ -47,18 +45,6 @@ IoT, Cloud, BigData, Mboile이 연계 가능한 개방형 플랫폼
 * [LoRa Gateway Config](https://docs.loraserver.io/lora-gateway-config)
 * [LoRa Server](https://docs.loraserver.io/loraserver/)
 * [LoRa App Server](https://docs.loraserver.io/lora-app-server/)
-
-## Links
-
-* [Downloads](https://docs.loraserver.io/loraserver/overview/downloads/)
-* [Docker image](https://hub.docker.com/r/loraserver/loraserver/)
-* [Documentation](https://docs.loraserver.io/loraserver/) and
-  [Getting started](https://docs.loraserver.io/loraserver/getting-started/)
-* [Building from source](https://docs.loraserver.io/loraserver/community/source/)
-* [Contributing](https://docs.loraserver.io/loraserver/community/contribute/)
-* Support
-  * [Support forum](https://forum.loraserver.io)
-  * [Bug or feature requests](https://github.com/brocaar/loraserver/issues)
 
 ## Sponsors
 
