@@ -7,6 +7,9 @@ KOREN SmartX 오픈 플랫폼은 KUF(KOREN 연구협력포럼) 참여 대학교 컨소시엄을 중심으
 ## Architecture
 
 ![architecture](https://docs.loraserver.io/img/architecture.png)
+<p align="center">
+  <HI>
+</p>
 
 ### Component links
 
