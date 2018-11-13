@@ -17,14 +17,14 @@ IoT, Cloud, BigData, Mboile이 연계 가능한 개방형 플랫폼
 
 ![Architecture](./images/Architecture.png)
 
-## Component Links
+### Component Links
   
-  - Service
+  * Service
      -
      -
      -
 
-  - Control Tower
+  * Control Tower
      - O+P Center
      - S Center
      - V Center
