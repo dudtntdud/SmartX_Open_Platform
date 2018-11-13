@@ -1,14 +1,9 @@
-.center{
-	display: block;
-	margin: auto;
-}
-
 # KOREN SmartX_Open_Platform
 
   KOREN SmartX 오픈 플랫폼은 KUF(KOREN 연구협력포럼) 참여 대학교 컨소시엄을 중심으로 2017 ~ 2019년에 걸쳐 진행되는 KOREN SDI 고도화와 연계하면서 2017년부터 단계적으로 구축하고 있는 IoT-Cloud 서비스 대응 KOREN SmartX 오픈플랫폼은  <그림 1>과 제시한 대로 다음과 같은 특징을 가진다.
 
 
-![Picture1](./images/Picture1.png){: .center}
+![Picture1](./images/Picture1.png)
 
 그림 1. 산업인터넷 확살을 위한 KOREN 오픈플랫폼의 단계별 실증
 
