@@ -16,9 +16,9 @@
 ### Component Links
   
   * Service
-     - 1
-     - 2
-     - 3
+     - [IoT-Cloud Application Services Workflow](https://github.com/KOREN-Platform/IoT-Cloud_Services/tree/master/IoT_Cloud_Service_Workflow)
+     - [Smart Air IoT-Cloud Service](https://github.com/KOREN-Platform/IoT-Cloud_Services/tree/master/Smart_Air_IoT_Cloud_Service)
+     - [Service Visualization & IoT data analysis tool](https://github.com/KOREN-Platform/IoT-Cloud_Services/tree/master/Service_Visualization_Analysis_Tool)
   * Control Tower
      - O+P Center
      - S Center
