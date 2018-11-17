@@ -26,12 +26,14 @@
      - V Center
 
 ### Boxes
+![Boxes](./images/Boxes.png)
   * [O-Box](https://github.com/KOREN-Platform/SmartX_Playground/blob/master/Playground_Introduction_Guide/User_Guide/Type-O%20%EB%82%B4%EB%B6%80%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A4%EC%A0%95%20%EB%B0%8F%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%84%B8%EB%B6%80%20%EC%84%A4%EB%AA%85.pdf)(Software-Defined Access 대응)
   * C-Box(클라우드 대응)
   * S-Box(Software-Defined WAN 대응)
 
 
 ### Links
+  - [Playground User Guide](https://github.com/KOREN-Platform/SmartX_Playground/blob/master/Playground_Introduction_Guide/User_Guide/readme.md)
   - [상세가이드](https://goo.gl/xyXfpd)
   - [Collaboration_2017](https://github.com/KOREN-Platform/Collaboration_2017)
   - [Technical_Documents](https://github.com/KOREN-Platform/Technical_Documents)
