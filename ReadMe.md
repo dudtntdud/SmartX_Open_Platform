@@ -11,7 +11,9 @@
   국내 다수 기관(광주과학기술원, 제주대학교, KOREN NOC, 전남대학교, 건국대학교)에 산재한 IoT-Cloud 대응 SmartX Box(Type O/C/S)들을 KOREN을 통하여 10Gbps 속도로 연결하고 이들을 광주 과학기술원에 위치한 컨트롤타워에서 관제한다. 이를 통해 제공되는 KOREN SmartX Playground(공용개발환경)를 개발자들이 자유롭게 활용하면서, 분산된 드론과 스마트폰 등을 통하여 수집한 센서 및 동영상 데이터를 모아서 시각화를 제공하는 [Smart Air IoT-Cloud 서비스](https://github.com/KOREN-Platform/IoT-Cloud_Services/tree/master/Smart_Air_IoT_Cloud_Service)를 포함한 다양한 IoT-Cloud 서비스들을 마이크로서비스 구조의 컨테이너 기반으로 오픈소스 기반의 KOREN SmartX OpenPlatform을 활용하여 손쉽게 실증하는것이 가능하다.
 
 ## System Architecture
+  * Main Architecture
 ![Architecture](./images/Architecture.png)
+  * Network Architecture
 ![Boxes](./images/Boxes.png)
 
 ### Component Links
