@@ -21,9 +21,10 @@ KOREN 기반의 정보 기술 및 서비스 개발/운영을 위한 KOREN 사용자 중심의 오픈 플랫�
      - [Smart Disaster Safety Service]
   
   * Control Tower
-     - O+P Center
-     - S Center
-     - V Center
+     - [O+P Center](https://github.com/KOREN-Platform/SmartX_Open_Platform/tree/master/Centers/P%2BO%20Center)
+     - [S Center](https://github.com/KOREN-Platform/SmartX_Open_Platform/tree/master/Centers/S%20Center)
+     - [V Center](https://github.com/KOREN-Platform/SmartX_Open_Platform/tree/master/Centers/V%20Center)
+    - [A Center](https://github.com/KOREN-Platform/SmartX_Open_Platform/tree/master/Centers/A%20Center)
 
   * Boxes
     - [O-Box](https://github.com/KOREN-Platform/SmartX_Playground/blob/master/Playground_Introduction_Guide/User_Guide/Type-O%20%EB%82%B4%EB%B6%80%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A4%EC%A0%95%20%EB%B0%8F%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%84%B8%EB%B6%80%20%EC%84%A4%EB%AA%85.pdf)
