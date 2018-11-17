@@ -6,8 +6,8 @@
 ![Architecture](./images/Architecture.png)
   * Network Architecture
 ![Boxes](./images/Boxes.png)
-- Box : 오픈 플랫폼을 활용하여 서비스 시스템을 구축하기 위해 필요한 자원(컴퓨팅/네트워킹)을 가상화된 수준에서 제공
-- Box는 OpenStack 기반의 클라우드에 대응하는 Type C(Cloud Box), Server와 Switch를 한 박스에 담고 있는 Type S(Server/Switch Box), IoT-Cloud에 대응하는 Type O(SD-Access Box)로 구성
+     - Box : 오픈 플랫폼을 활용하여 서비스 시스템을 구축하기 위해 필요한 자원(컴퓨팅/네트워킹)을 가상화된 수준에서 제공
+     - Box는 OpenStack 기반의 클라우드에 대응하는 Type C(Cloud Box), Server와 Switch를 한 박스에 담고 있는 Type S(Server/Switch Box), IoT-Cloud에 대응하는 Type O(SD-Access Box)로 구성
 
 ### Component Links
   
