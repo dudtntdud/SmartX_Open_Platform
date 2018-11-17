@@ -6,6 +6,8 @@
 ![Architecture](./images/Architecture.png)
   * Network Architecture
 ![Boxes](./images/Boxes.png)
+- Box : 오픈 플랫폼을 활용하여 서비스 시스템을 구축하기 위해 필요한 자원(컴퓨팅/네트워킹)을 가상화된 수준에서 제공
+- Box는 OpenStack 기반의 클라우드에 대응하는 Type C(Cloud Box), Server와 Switch를 한 박스에 담고 있는 Type S(Server/Switch Box), IoT-Cloud에 대응하는 Type O(SD-Access Box)로 구성
 
 ### Component Links
   
@@ -21,11 +23,8 @@
 
   * Boxes
     - [O-Box](https://github.com/KOREN-Platform/SmartX_Playground/blob/master/Playground_Introduction_Guide/User_Guide/Type-O%20%EB%82%B4%EB%B6%80%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A4%EC%A0%95%20%EB%B0%8F%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%84%B8%EB%B6%80%20%EC%84%A4%EB%AA%85.pdf)
- : IoT와 Cloud 사이에 위치하여 유연한 연결성을 제공하는 SD-Access의 적용을 위한 Box. Type O SD-Access Box는 와이파이 및 유선 연결을 통해 드론, 스마트폰과 같은 IoT 기기들에게 네트워킹을 제공하며, 관제타워의 SD-Access SDN 제어기의 제어 하에 IoT 어플리케이션이 생성하는 데이터를 클라우드로 전달하는 역할을 한다.
-    - C-Box(클라우드 대응)
+    - C-Box
     - S-Box
- : ONOS SDN 제어기를 기반으로 Server와 Switch 파트를 한 하드웨어에 담고 있는 형태의 융합형 자원 Box
-
 
 ### Links
   - [Playground User Guide](https://github.com/KOREN-Platform/SmartX_Playground/blob/master/Playground_Introduction_Guide/User_Guide/readme.md)
