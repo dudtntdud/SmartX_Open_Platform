@@ -11,7 +11,7 @@
   
   * Service
      - [Smart Air IoT-Cloud Service](https://github.com/KOREN-Platform/IoT-Cloud_Services/tree/master/Smart_Air_IoT_Cloud_Service)
-     - [Smart Campus Safety Service]
+     - [Smart Campus Safety Service](https://github.com/KOREN-Platform/Smart-Campus-Safety-Service)
      - [Smart Disaster Safety Service]
   
   * Control Tower
